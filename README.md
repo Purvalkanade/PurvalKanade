@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Purval Kanade
 
+<p align="center">
+  <img src="./hero.png" alt="Purval Kanade Banner" />
+</p>
+
+
 I'm a passionate developer who loves building web and software projects!  
 I enjoy learning new technologies and collaborating on open source 🌐.
 
